@@ -22,7 +22,7 @@ namespace Sy_Logrono.Controllers
         {
             return View();
         }
-
+        //Hello
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
