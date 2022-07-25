@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sy-Logrono", "Sy-Logrono\Sy-Logrono.csproj", "{64921E29-34EA-444F-AD29-6E51BAD203D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64921E29-34EA-444F-AD29-6E51BAD203D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64921E29-34EA-444F-AD29-6E51BAD203D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64921E29-34EA-444F-AD29-6E51BAD203D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64921E29-34EA-444F-AD29-6E51BAD203D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AAB07C0-8463-49C1-A6DE-2100E9EBB1D1}
+	EndGlobalSection
+EndGlobal
